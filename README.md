@@ -6,9 +6,9 @@
 #### ![alt text](https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/14887640061543238901-20.png) [*link for mail!*](mailto:mrr.wrk@gmail.com)
 
 ## _Some stats_
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrrlanie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrrlanie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrlanie&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrlanie&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 

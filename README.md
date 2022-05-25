@@ -10,8 +10,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrlanie&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 🗃️ _Current workspaces_
 ####
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrrlanie&show_owner=true&repo=iOS-practice-FEFU&theme=gotham)][(https://github.com/mrrlanie/iOS-practice-FEFU)]
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrrlanie&show_owner=true&repo=iOS-practice-FEFU&theme=gotham)]
 <!-- 
 ty Semen (aka @princepepper) for idea! 
 mwah <3

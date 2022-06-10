@@ -1,5 +1,5 @@
 ## :woman_technologist: _About me:_ 
-### _**Darya Pakhomova, 20 y.o., FEFU student (currently on 3-rd course AMI), Vladivostok, Russia.**_
+### _**Daria Pakhomova, 20 y.o., FEFU student (currently on 3-rd course AMI), Vladivostok, Russia.**_
 ## 	:memo: _Languages learned_:
 
 - ### _Python (+ Django)_

@@ -1,16 +1,25 @@
-## 👋 _Hello-o, stranger!_ 
+## _About me:_ 
+### _**Darya Pakhomova, 20 y.o., FEFU student (currently on 3-rd course AMI), Vladivostok, Russia.**_
+## _Languages learned_:
 
-## 📑 _Timesavers just for u, cutie_
-####  [*link for tg!*](https://t.me/mrrlanie)
-####  [*link for mail!*](mailto:mrr.wrk@gmail.com)
-## 💾 _Some stats_
+- ### _Python (+ Django)_
+- ### _JS/TS (+ Vue.js)_
+- ### _C/C++_
+- ### _Swift_
+- ### _C# (for mobile dev course and Unity course project)_
+- ### _Java (not so much, used in "Pacific Project School")_
+- ### _1C (hell yeah)_
+
+## _Timesaver links_
+####  [*link for telegram*](https://t.me/mrrlanie)
+####  [*link for work mail*](mailto:mrr.wrk@gmail.com)
+
+## _Stats_
 #### 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrrlanie&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 #### 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrlanie&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## 🗃️ _Current workspaces_
-####
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrrlanie&show_owner=true&repo=iOS-practice-FEFU&theme=gotham)]
+
 <!-- 
 ty Semen (aka @princepepper) for idea! 
 mwah <3

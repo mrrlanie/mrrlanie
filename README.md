@@ -11,8 +11,8 @@
 - ### _1C (hell yeah)_
 
 ## :link: _Timesaver links_
-####  [*link for telegram*](https://t.me/mrrlanie)
-####  [*link for work mail*](mailto:mrr.wrk@gmail.com)
+- ###  [*link for telegram*](https://t.me/mrrlanie)
+- ###  [*link for work mail*](mailto:mrr.wrk@gmail.com)
 
 ## :chart_with_upwards_trend: _Stats_
 #### 

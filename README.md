@@ -1,5 +1,5 @@
 ## :woman_technologist: _About me:_ 
-### _**Daria Pakhomova, 22 y.o., FEFU student (currently on 4-rd course AMI), Vladivostok, Russia.**_
+### _**Daria Pakhomova, 22 y.o., Vladivostok, Russia.**_
 ## :link: _Timesaver links_
 - ###  [*link for telegram*](https://t.me/mrrlanie)
 - ###  [*link for work mail*](mailto:mrr.wrk@gmail.com)
